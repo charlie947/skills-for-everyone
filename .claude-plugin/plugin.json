@@ -1,7 +1,7 @@
 {
   "name": "skills-for-everyone",
   "version": "1.0.0",
-  "description": "Seven Claude skills for people who use Claude every day but do not write code. See the finished thing, get the answer first, make Claude remember what you taught it, turn rough ideas into tested prompts and shareable workflows, and read a stalled deal for who holds the power.",
+  "description": "Seven Claude skills for people who use Claude every day but do not write code. See the finished thing, get the answer first, make Claude remember what you taught it, turn rough ideas into tested prompts and shareable workflows, and push your work to GitHub without breaking it for anyone.",
   "author": {
     "name": "Charlie Hills",
     "url": "https://charliehills.substack.com"
@@ -14,7 +14,8 @@
     "marketing",
     "creators",
     "founders",
-    "memory"
+    "memory",
+    "github"
   ],
   "homepage": "https://charliehills.substack.com",
   "repository": "https://github.com/charlie947/skills-for-everyone",
@@ -22,8 +23,8 @@
     "./skills/answer-first",
     "./skills/close",
     "./skills/improve-system",
-    "./skills/machiavelli",
     "./skills/prompt-lab",
+    "./skills/push-check",
     "./skills/show-me",
     "./skills/workflow-maker"
   ]

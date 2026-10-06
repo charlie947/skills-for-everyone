@@ -1,0 +1,5 @@
+interface:
+  display_name: "Push Check"
+  short_description: "Check everything before it goes to GitHub"
+policy:
+  allow_implicit_invocation: true

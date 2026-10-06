@@ -1,6 +1,6 @@
 # Skills for Everyone
 
-<p align="center"><img src="assets/hero.png" alt="7 Free Claude Skills" width="540"></p>
+<p align="center"><img src="assets/hero.png" alt="7 Claude Skills for Non-Developers" width="540"></p>
 
 [![skills.sh](https://skills.sh/b/charlie947/skills-for-everyone)](https://skills.sh/charlie947/skills-for-everyone)
 
@@ -104,11 +104,11 @@ Every skill was run cold by a stranger: a fresh install, an invented business, i
 
 **The fix.** [`/prompt-lab`](./skills/prompt-lab/SKILL.md) turns a rough idea into a tested prompt, graded against Anthropic's current guidance. [`/workflow-maker`](./skills/workflow-maker/SKILL.md) turns a process you run into a prompt pack anyone can paste and run.
 
-### #4: A deal goes quiet
+### #4: What you push breaks for everyone else
 
-**The problem.** A client goes quiet. A partner pushes terms. A buyer names a number below yours. From inside the thread you cannot see who holds the power.
+**The problem.** You built something with Claude and put it on GitHub. It works on your machine. Then someone downloads it and hits a leaked key, a dead link or a setup step that only ever worked for you.
 
-**The fix.** [`/machiavelli`](./skills/machiavelli/SKILL.md) reads a stalled deal for who holds the power, picks the play and writes the message.
+**The fix.** [`/push-check`](./skills/push-check/SKILL.md) checks everything before it leaves: leaked keys, personal paths, oversized files, dead links, a second Claude reading the changes cold, and a rehearsal on a fresh copy. It pushes only after two clean passes in a row.
 
 ## Which skill do I need?
 
@@ -120,7 +120,7 @@ Every skill was run cold by a stranger: a fresh install, an invented business, i
 | Stop repeating the same corrections every week | `improve-system` |
 | Turn a rough idea into a tested prompt | `prompt-lab` |
 | Share a process as prompts other people can run | `workflow-maker` |
-| Work out how to handle a client, a deal or a negotiation | `machiavelli` |
+| Put your work on GitHub without breaking it for anyone | `push-check` |
 
 ## Reference
 
@@ -140,15 +140,16 @@ Some skills run when you ask for them, by slash command or in your own words. Ot
 - **[show-me](./skills/show-me/SKILL.md)**: Puts the finished thing in front of you as a page in your browser, instead of describing it. [Docs](./docs/show-me.md)
 - **[answer-first](./skills/answer-first/SKILL.md)**: Puts the answer in the first sentence of every reply. No preamble, no waffle. [Docs](./docs/answer-first.md)
 
-### Deals and clients
+### Ship your work
 
-**Claude reaches for it**
+**You ask for it**
 
-- **[machiavelli](./skills/machiavelli/SKILL.md)**: Reads a business situation for who holds the power, picks the play and writes the message. [Docs](./docs/machiavelli.md)
+- **[push-check](./skills/push-check/SKILL.md)**: Checks everything before your work goes to GitHub, then pushes it. Catches leaked keys, dead links and setup steps that only work on your machine. [Docs](./docs/push-check.md)
 
 ## What these skills will never do
 
 - Send a message, publish a post or spend money on your behalf. Anything that goes out, you send.
+- Make a repo public, force-push or rewrite history without asking you first.
 - Delete a record, a file or one of your rules without asking you first.
 - Send your files or history anywhere. The scripts run on your computer.
 

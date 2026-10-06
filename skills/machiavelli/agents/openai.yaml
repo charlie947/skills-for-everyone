@@ -1,5 +1,0 @@
-interface:
-  display_name: "Machiavelli"
-  short_description: "Read who holds the power, pick the play, draft it"
-policy:
-  allow_implicit_invocation: true

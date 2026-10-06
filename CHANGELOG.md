@@ -5,7 +5,7 @@
 The first public release: 7 skills in two groups.
 
 - Work with Claude: `show-me`, `answer-first`, `close`, `improve-system`, `prompt-lab`, `workflow-maker`.
-- Deals and clients: `machiavelli`.
+- Ship your work: `push-check`.
 - 16 more skills were built and tested, then cut to keep only the strongest.
 - Every skill was run cold on a fresh install with invented data, fixed, and run again before it went in.
 - Scripts find their own folder through `${CLAUDE_SKILL_DIR}`, so they work for a plugin install and a copied folder alike.
