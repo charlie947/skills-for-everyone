@@ -1,6 +1,6 @@
 # Skills for Everyone
 
-<p align="center"><img src="assets/hero.png" alt="7 Claude Skills for Non-Developers" width="540"></p>
+<p align="center"><img src="assets/hero.png" alt="7 Claude Skills (for non-developers)" width="540"></p>
 
 [![skills.sh](https://skills.sh/b/charlie947/skills-for-everyone)](https://skills.sh/charlie947/skills-for-everyone)
 
@@ -74,7 +74,7 @@ You should see nothing. That is normal. A skill you already had with the same na
 
 Download a skill folder from this page and zip it. In the Claude app, open Customize, then Skills, click "+", choose "Create skill", then "Upload a skill". Every plan can upload skills, including Free.
 
-Three skills read or write files on your computer, so they need Claude Code: `show-me`, `close` and `improve-system`. The other four work in the app, using anything you paste in or the connectors you have switched on (Gmail, Calendar, Notion and so on).
+Four skills read or write files on your computer, so they need Claude Code: `show-me`, `close`, `improve-system` and `push-check`. The other three work in the app, using anything you paste in or the connectors you have switched on (Gmail, Calendar, Notion and so on).
 
 </details>
 
