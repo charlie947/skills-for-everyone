@@ -1,0 +1,5 @@
+interface:
+  display_name: "Workflow Maker"
+  short_description: "Turn an idea into a prompt pack anyone can run"
+policy:
+  allow_implicit_invocation: false

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Prompt Lab"
+  short_description: "Turn an idea into a graded, tested prompt"
+policy:
+  allow_implicit_invocation: false

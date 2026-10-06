@@ -1,0 +1,5 @@
+interface:
+  display_name: "Answer First"
+  short_description: "Put the answer in the first sentence"
+policy:
+  allow_implicit_invocation: true

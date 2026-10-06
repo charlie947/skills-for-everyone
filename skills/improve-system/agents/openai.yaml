@@ -1,0 +1,5 @@
+interface:
+  display_name: "Improve System"
+  short_description: "Find the corrections you keep repeating"
+policy:
+  allow_implicit_invocation: false

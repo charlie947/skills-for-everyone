@@ -1,0 +1,5 @@
+interface:
+  display_name: "Close"
+  short_description: "End a session properly and bank the lessons"
+policy:
+  allow_implicit_invocation: false

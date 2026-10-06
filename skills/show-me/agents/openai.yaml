@@ -1,0 +1,5 @@
+interface:
+  display_name: "Show Me"
+  short_description: "See the finished thing as a page, not prose"
+policy:
+  allow_implicit_invocation: true

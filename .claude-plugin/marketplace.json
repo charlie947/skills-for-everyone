@@ -1,0 +1,24 @@
+{
+  "name": "skills-for-everyone",
+  "owner": {
+    "name": "Charlie Hills",
+    "url": "https://charliehills.substack.com"
+  },
+  "description": "Claude skills for non-developers, as an installable Claude Code plugin.",
+  "plugins": [
+    {
+      "name": "skills-for-everyone",
+      "source": "./",
+      "description": "Seven Claude skills for people who use Claude every day but do not write code: marketers, founders and creators.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": [
+        "skills",
+        "non-developers",
+        "productivity",
+        "marketing",
+        "creators"
+      ]
+    }
+  ]
+}
